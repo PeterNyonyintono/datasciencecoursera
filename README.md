@@ -1,2 +1,1 @@
-# datasciencecoursera
-Repo created for Peer review assignment in R specialisation course JHU
+## This is a markdown file
