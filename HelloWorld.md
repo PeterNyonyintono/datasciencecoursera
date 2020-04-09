@@ -1,3 +1,1 @@
-myString <- "Hello, World!"
-
-print ( myString)
+## This is a markdown file
